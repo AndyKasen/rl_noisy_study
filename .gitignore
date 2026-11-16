@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+pract_evn/
+models/
+*.zip
+run_log.txt
